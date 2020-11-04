@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    font-family: arial, sans-serif;
+}
+
+#googleLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 200px;
+    position: relative;
+    justify-content: flex-end;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font: 13px arial, sans-serif;
+    position: relative;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+   justify-content: flex-end;
+   display: flex;
+   padding: 20px;
+}
+
+#oneL, #twoL {
+    right: 1550px;
+    padding: 15px;
+}
+
+#oneR, #twoR {
+    right: 200px;
+    padding: 15px;
+}
+
+.signin {
+    background-color: #4285f4;
+    color: white;
+    padding: 0px 30px 0px 30px;
+    position: absolute;
+    border-radius: 4px;
+    top: 20px;
+    right: 50px;
+}
+
+.icon {
+    background-image: url(//web.archive.org/web/20191130234759im_/https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-size: 528px 68px;
+    width: 30px;
+    height: 23px;
+    background-position: -132px -44px;
+    opacity: 0.5;
+    position: relative;
+    bottom: 2px;
+    top: 10px;
+    right: 175px;
+}
+
+.logoInfo {
+    position: relative;
+    text-align: center;
+}
+
+#search {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 230px;
+    position: relative;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    outline: none;
+    width: 600px;
+    height: 40px;
+}
+
+input {
+    font-size: 20px;
+    padding-left: 40px;
+}
+
+#bleft, #bright {
+    background-color: #f2f2f2;
+    top: 270px;
+    text-align: center;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+    margin: 0 10px 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body {
+    margin: 0;
+    padding: 0;
+    font-family:  arial, sans-serif;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 300px;
+    position: absolute;
+}
+
+.left {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 13px;
+    padding-right: 10px;
+}
+
+.right {
+    left: 1700px;
+    position: absolute;
+    bottom: 400px;
+}
+.icon {
+    background-image: url(//web.archive.org/web/20191130234759im_/https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-size: 528px 68px;
+    width: 30px;
+    height: 24px;
+    float: right;
+    background-position: -132px -44px;
+    opacity: 0.5;
+    bottom: 35px;
+    position: relative;
+    right: 80px;
+}
+
+
+.icon {
+    background-image: "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png";
+    background-size: 528px 68px;
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+}
+*/
